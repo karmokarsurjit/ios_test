@@ -1,4 +1,5 @@
 # ios_test
+[![Flutter](https://github.com/karmokarsurjit/ios_test/actions/workflows/dart.yml/badge.svg)](https://github.com/karmokarsurjit/ios_test/actions/workflows/dart.yml)
 
 A new iOS Flutter project.
 
