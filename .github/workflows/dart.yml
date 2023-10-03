@@ -30,9 +30,6 @@ jobs:
           channel: stable
           version: 3.13.6
 
-      - name: Setup Dart SDK
-        uses: dart-lang/setup-dart@v1
-
       - name: Install dependencies
         run: dart pub get
 
